@@ -4,3 +4,5 @@ __pycache__/
 **/__pycache__/
 .code
 .env
+channel_copier_session.session*
+copier_state.json
