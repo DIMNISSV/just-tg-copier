@@ -7,6 +7,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+telethon = "^1.44.0"
+python-dotenv = "^1.2.2"
 
 
 [build-system]
